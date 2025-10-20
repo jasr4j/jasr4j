@@ -1,21 +1,11 @@
 # Hi there 👋 
 ## About Me
 
-More info is on [my website](https://developerc76.github.io/)
+You can find some info about me on [my website](https://developerc76.github.io/)
 
-## Skills
+## Platforms
 
-I know C, C++, and Python, along with simple web development (from scratch) and Kotlin. 
+[LeetCode](https://leetcode.com/u/developerc76/)
 
-I'm a CyberPatriot 17 Semifinalist in the gold division (specializing in Linux)
+[CodeForces](https://codeforces.com/profile/ashirvad2)
 
-## Stats
-
-### GitHub Stats
-
-![developerc76's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerc76&theme=dark&show_icons=true&hide_border=false&layout=compact)
-![developerc76's Stats](https://github-readme-stats.vercel.app/api?username=developerc76&theme=dark&show_icons=true&hide_border=false)
-
-### CodeForces Stats
-
-![CF stats](https://raw.githubusercontent.com/developerc76/cf-stats/main/output/light_card.svg)
