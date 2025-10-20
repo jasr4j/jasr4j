@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## About Me
 
-You can find some info about me on [my website](https://developerc76.github.io/)
+You can find some info about me on [my website](https://jasr4j.github.io/)
 
 ## Platforms
 
