@@ -7,5 +7,5 @@ You can find some info about me on [my website](https://jasr4j.github.io/)
 
 [LeetCode](https://leetcode.com/u/developerc76/)
 
-[CodeForces](https://codeforces.com/profile/ashirvad2)
+[CodeForces](https://codeforces.com/profile/jasraj1)
 
